@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               不二
 tagline:             '拿酒来，酒染我长袍'
-description:         '<h1 style="color:white">wood</h1><br>product designer<a href="https://twitter.com/woood_lou" title=“Twitter” target="_blank">@木之</a>'
+description:         '<h1 style="color:white">wood</h1><br>product designer&nbsp;&nbsp;<a href="https://twitter.com/woood_lou" title=“Twitter” target="_blank">@木之</a>'
 url:                 https://woodlou.github.io/
 baseurl:             /
 paginate:            5
