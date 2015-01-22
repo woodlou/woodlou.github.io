@@ -41,7 +41,17 @@ body {
 }
 
 html {
-  font-family: "Avenir Next" "Lantinghei SC", serif;
+  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, STKaiti, sans-serif;
+  -webkit-font-smoothing:antialiased;
+  font-size: 20px;
+
+}
+
+p{
+font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, STKaiti, sans-serif;
+-webkit-font-smoothing:antialiased;
+font-size:16px;
+font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -148,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family:"Avenir Next" "Lantinghei SC", Helvetica, Arial, sans-serif;
+  font-family:"Avenir Next" "Lantinghei TC", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
