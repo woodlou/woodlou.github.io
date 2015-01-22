@@ -14,7 +14,9 @@ _贴心的camu针对不同的设备进行了适配，以下体验基于4S的界�
     <img src="/assets/2014_09_21_camu_details_1.png"></div>
 <div style="width:400px;">
     <img src="/assets/2014_09_21_camu_details_2.png"></div>
+    
 操作引导，尤其是自动拍摄功能的引导，难免还是使用了大段的文字，和整个App本身的气场不太搭。
+
 <div style="width:400px;">
     <img src="/assets/2014_09_21_camu_details_3.png"></div>
 
