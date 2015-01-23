@@ -55,8 +55,9 @@ font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Avenir Next" "Lantinghei SC", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, STKaiti, sans-serif;
+-webkit-font-smoothing:antialiased;
+  font-weight: 500;
   color: #313131;
   letter-spacing: -.025rem;
 }
