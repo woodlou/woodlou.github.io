@@ -81,7 +81,7 @@ a:focus {
 }
 
 /* Headings */
-h1, h2, h3, h5, h6 {
+h1, h2, h3, h4,h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
@@ -99,13 +99,8 @@ h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
 }
-h4 {
-  margin-top: 1.5rem;
-  font-size: 1rem;
-  color:#268bd2;
-}
 
-h5, h6 {
+h4,h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }

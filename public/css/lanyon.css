@@ -50,8 +50,9 @@ html {
 p{
 font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, STKaiti, sans-serif;
 -webkit-font-smoothing:antialiased;
-font-size:16px;
+font-size:18px;
 font-weight: 400;
+line-height:1.95em;
 }
 
 h1, h2, h3, h4, h5, h6 {

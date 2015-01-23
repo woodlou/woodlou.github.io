@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 <p>wood，product designer，dreamer.</p>
-blabla我还没写好
+
+
 <br>
 <br>
 ![wood](/assets/wood.jpg)
