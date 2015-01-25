@@ -2,6 +2,12 @@
 layout: page
 title: Photographs
 ---
+---
+<br>
+![photo](/assets/photography_2014_8_2_girl.JPG)
+<p align = "right">小时候<br>
+2014-8-2
+<br>
 
 ---
 <br>
