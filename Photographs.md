@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography
+title: Photographs
 ---
 
 ---
@@ -21,7 +21,7 @@ title: Photography
 
 <center>**渐老**
 <br>
-渐如枯枝<br>
+<p>渐如枯枝<br>
 晴空下<br>
 枝桠纤繁成晕<br>
 后面蓝天<br>
@@ -36,7 +36,7 @@ title: Photography
 别的树上有鸟巢<br>
 黄丝带，断线风筝<br>
 我<br>
-没有<br>
+没有<br></p>
 </center>
 
 
