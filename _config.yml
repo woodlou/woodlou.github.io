@@ -45,10 +45,10 @@ disqus_shortname: wood
 # Category descriptions (for archive pages)
 descriptions:
   - cat: Design
-    desc: "怕什么真理无穷，进一寸有一寸的欢喜."
+    desc: "怕什么真理无穷，进一寸有一寸的欢喜 "
 
-  - cat: Life
-    desc: "我来到这世上，是为了看太阳."
+  - cat: life
+    desc: "我来到这世上，是为了看太阳 "
 
 # Social icons and sharing options
 #
