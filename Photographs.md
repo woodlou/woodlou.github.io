@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photographs
-permalink: /Photographs/
+permalink: /photographs/
 ---
 
 

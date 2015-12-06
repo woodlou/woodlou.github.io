@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poems
-permalink: /Poems/
+permalink: /poems/
 ---
 
 ### 2015-2-2

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes
-permalink: /Quotes/
+permalink: /quotes/
 ---
 
 
