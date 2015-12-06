@@ -2,7 +2,7 @@
 layout: post
 title: 关于取悦用户
 author: wood
-categories: design
+categories: Design
 ---
 
 今儿跟小伙伴讨论pinterest为什么不提供多图上传的功能，聊起「最好的解决方案」，说到Howard Moskowitz为百事可乐做的[实验](http://blog.ted.com/2006/09/20/malcolm_gladwel_1/)。百事想找出一款「最完美的可乐」，为此做了各种实验，但最后的数据却一团糟，所有人对可乐有着不同的偏好，根本不存在想象中的那条正态曲线。因此Howard Moskowitz提出：

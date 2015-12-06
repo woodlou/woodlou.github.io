@@ -2,7 +2,7 @@
 layout: post
 title: 手绘学习
 author: wood
-categories: design
+categories: Design
 ---
 
 #### 2014-5-16
