@@ -11,7 +11,7 @@ categories: design
 
 ---
 
-<h3 style="color:#268bd2;">3基于用户定位和价值分析的花瓣iOS客户端功能设想</h3><h3 style="color:#268bd2;">1 花瓣IOS客户端用户分析</h3>
+<h3 style="color:#268bd2;">1 花瓣iOS客户端用户分析</h3>
 <h4 style="color:#268bd2;">1.1花瓣网用户群分析</h4>
 <h4 style="color:#268bd2;">1.1.1核心用户</h4>
 
