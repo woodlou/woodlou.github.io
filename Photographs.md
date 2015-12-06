@@ -5,7 +5,7 @@ permalink: /photographs/
 ---
 
 
-![photo]({{site.baseurl}}/assets/photography_2014_8_2_girl.JPG)
+![photo]({{site.url}}/assets/photography_2014_8_2_girl.JPG)
 <p align = "right">小时候<br />
 2014-8-2
 </p>
@@ -13,21 +13,21 @@ permalink: /photographs/
 ---
 
 
-![photo]({{site.baseurl}}/assets/photography_2014_6_3_music_night.png)
+![photo]({{site.url}}/assets/photography_2014_6_3_music_night.png)
 <p align = "right">夜未央<br />
 2014-6-3
 </p>
 
 ---
 
-![photo]({{site.baseurl}}/assets/photography_2014_2_12_westlake.jpg)
+![photo]({{site.url}}/assets/photography_2014_2_12_westlake.jpg)
 <p align = "right">醉西湖<br />
 2014-2-12
 </p>
 
 ---
 
-![photo]({{site.baseurl}}/assets/photography_2013_12_30_wood.jpg)
+![photo]({{site.url}}/assets/photography_2013_12_30_wood.jpg)
 
 <center> 渐老
 <br>
@@ -56,14 +56,14 @@ permalink: /photographs/
 
 ---
 
-![photo]({{site.baseurl}}/assets/photography_2013_11_7_wait_for_u.jpg)
+![photo]({{site.url}}/assets/photography_2013_11_7_wait_for_u.jpg)
 <p align = "right">十年，我从远方来，赴你一面之约<br />
 2013-11-7
 </p>
 
 ---
 
-![photo]({{site.baseurl}}/assets/photography_2013_11_7_rain.jpg)
+![photo]({{site.url}}/assets/photography_2013_11_7_rain.jpg)
 <p align = "right">天青色等烟雨<br />
 2013-11-7
 </p>
