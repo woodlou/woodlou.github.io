@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 翻译-Startups, this is how design works
+author: wood
+categories: design
 ---
 
 看完受益匪浅，自己看的时候顺便翻译了下，双重练习啦。第一次翻，觉得自己萌萌哒。原文：[Startups, this is how design works](https://startupsthisishowdesignworks.com/#ref-13)。

@@ -2,32 +2,35 @@
 layout: page
 title: Photographs
 ---
----
-<br>
-![photo](/assets/photography_2014_8_2_girl.JPG)
-<p align = "right">小时候<br>
+
+
+![photo](///assets/photography_2014_8_2_girl.JPG)
+<p align = "right">小时候<br />
 2014-8-2
-<br>
+</p>
 
 ---
-<br>
-![photo](/assets/photography_2014_6_3_music_night.png)
-<p align = "right">夜未央<br>
+
+
+![photo](///assets/photography_2014_6_3_music_night.png)
+<p align = "right">夜未央<br />
 2014-6-3
-<br>
+</p>
 
 ---
-![photo](/assets/photography_2014_2_12_westlake.jpg)
-<p align = "right">醉西湖<br>
+
+![photo](///assets/photography_2014_2_12_westlake.jpg)
+<p align = "right">醉西湖<br />
 2014-2-12
-<br>
+</p>
 
 ---
-![photo](/assets/photography_2013_12_30_wood.jpg)
 
-<center>**渐老**
+![photo](///assets/photography_2013_12_30_wood.jpg)
+
+<center> 渐老
 <br>
-<p>渐如枯枝<br>
+渐如枯枝<br>
 晴空下<br>
 枝桠纤繁成晕<br>
 后面蓝天<br>
@@ -46,35 +49,22 @@ title: Photographs
 </center>
 
 
-<p align = "right">木心<br>
+<p align = "right">木心<br />
 2013-12-30
-<br>
+</p>
 
 ---
-![photo](/assets/photography_2013_11_7_wait_for_u.jpg)
-<p align = "right">十年，我从远方来，赴你一面之约<br>
+
+![photo](///assets/photography_2013_11_7_wait_for_u.jpg)
+<p align = "right">十年，我从远方来，赴你一面之约<br />
 2013-11-7
-<br>
+</p>
 
 ---
-![photo](/assets/photography_2013_11_7_rain.jpg)
-<p align = "right">天青色等烟雨<br>
+
+![photo](///assets/photography_2013_11_7_rain.jpg)
+<p align = "right">天青色等烟雨<br />
 2013-11-7
-<br>
+</p>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

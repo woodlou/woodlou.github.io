@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 花瓣工作小结
+author: wood
+categories: design
 ---
 
 

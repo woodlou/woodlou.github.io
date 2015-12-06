@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 恋恋风尘
+author: wood
+categories: life
 ---
 
 负责任地感到要对自己看过的电影和书负责。于是我怎么看「负责」这两个字都感到很不负责任。 浮生闲事，暂停，容后再续 。
