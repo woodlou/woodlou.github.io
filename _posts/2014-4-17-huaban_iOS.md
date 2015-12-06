@@ -8,8 +8,11 @@ categories: design
 ![poem]({{site.url}}/assets/2014_04_17-huaban_iOS.png)
 
 <br />
-<h3 style="color:#268bd2;">1 花瓣IOS客户端用户分析</h3>
-<h4 style="color:#268bd2;">1．1花瓣网用户群分析</h4>
+
+---
+
+<h3 style="color:#268bd2;">3基于用户定位和价值分析的花瓣iOS客户端功能设想</h3><h3 style="color:#268bd2;">1 花瓣IOS客户端用户分析</h3>
+<h4 style="color:#268bd2;">1.1花瓣网用户群分析</h4>
 <h4 style="color:#268bd2;">1.1.1核心用户</h4>
 
 **①设计师、摄影师、艺术家：**收集灵感、善于发现美<br>
