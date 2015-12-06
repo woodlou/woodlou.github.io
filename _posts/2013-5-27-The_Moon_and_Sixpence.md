@@ -2,7 +2,7 @@
 layout: post
 title: 以梦为马（《The Moon and Sixpence》书评）
 author: wood
-categories: Life
+categories: life
 ---
 
 我能用同一个名字吗，因为现在很吵。虽然咱们要聊的是理想。也许是梦想。也许是女人。女人真的很奇怪，是的，现在我满脑袋都是她们的各种声音，细细碎碎念念叨叨叽叽喳喳刺刺拉拉，遗憾的是，其实我也是。

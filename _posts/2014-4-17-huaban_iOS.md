@@ -2,7 +2,7 @@
 layout: post
 title: 对花瓣iOS客户端的一点思考
 author: wood
-categories: Design
+categories: design
 ---
 <div>
     <img src="/assets/2014_04_17-huaban_iOS.png"></div>

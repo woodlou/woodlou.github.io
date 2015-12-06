@@ -2,7 +2,7 @@
 layout: post
 title: Camu details
 author: wood
-categories: Design
+categories: design
 ---
 竟然是一个[纯男性团队](http://sumoing.com/)的作品，干净贴心得有些意外，用手势简化界面，简洁有态度。
 
