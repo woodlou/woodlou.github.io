@@ -7,7 +7,7 @@ categories: design
 <div>
     <img src="/assets/2014_04_17-huaban_iOS.png"></div>
 
-<br /><h3 style="color:#268bd2;">1、花瓣IOS客户端用户分析</h3>
+<br /><h3 >1、花瓣IOS客户端用户分析</h3>
 <h4 style="color:#268bd2;">1．1花瓣网用户群分析</h4>
 <h4 style="color:#268bd2;">1.1.1核心用户</h4>
 
