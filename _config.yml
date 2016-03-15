@@ -2,12 +2,12 @@
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
+  - jekyll-paginate
 
 exclude:
   - "/vendor/"
 
-
-
+# info
 title: 不二
 subtitle: "拿酒来，酒染我长袍"
 email: louyingxia1991@gmail.com
