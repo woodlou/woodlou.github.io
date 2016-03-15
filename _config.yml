@@ -82,12 +82,6 @@ social:
     desc: Friend me on Facebook
     share: true
 
-  - name: GitHub
-    icon: github
-    username:  theme by bencentra
-    url: https://github.com/bencentra 
-    desc: theme by bencentra
-    share: false
 
   - name: LinkedIn
     icon: linkedin
@@ -164,6 +158,13 @@ social:
     username: 
     url: 
     desc: Follow me on Vine
+    share: false
+
+  - name: GitHub
+    icon: 
+    username:  theme by bencentra
+    url: https://github.com/bencentra 
+    desc: theme by bencentra
     share: false
 
 # Social sharing protocols
