@@ -161,8 +161,8 @@ social:
     share: false
 
   - name: GitHub
-    icon: 
-    username:  theme by bencentra
+    icon: GitHub
+    username:  ---theme by bencentra---
     url: https://github.com/bencentra 
     desc: theme by bencentra
     share: false
