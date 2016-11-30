@@ -69,4 +69,4 @@ categories: design
 
 ![img](https://cdn-images-1.medium.com/max/600/1*O9a7-5uPMoz-yvNxgWSJaA.png)
 
-练习是件有意思的事儿，比如去ADM时相机里的画风是这样的，跟这串有时在奔跑有时想飞的气球聊了很久。也许比起以前，更加懂得宇宙里一竖线条存在的意义了。![ghost](https://d1fldwwydewvss.cloudfront.net/static/img/ace/emoji/1f47b.png)
+练习是件有意思的事儿，比如去ADM时相机里的画风是这样的，跟这串有时在奔跑有时想飞的气球聊了很久。也许比起以前，更加懂得宇宙里一竖线条存在的意义了。👻
