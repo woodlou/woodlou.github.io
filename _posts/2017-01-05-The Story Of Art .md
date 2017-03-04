@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于《艺术的故事》的3个想法
+title: 《艺术的故事》读后思考
 author: wood
 categories: design
 ---

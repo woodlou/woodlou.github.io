@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于《视觉传达完全教程》的3个想法
+title: 《视觉传达完全教程》读后思考
 author: wood
 categories: design
 ---
