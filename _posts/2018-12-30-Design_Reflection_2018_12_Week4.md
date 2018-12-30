@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Design Reflection-2018.12-W4
+title: Design Reflection-2018.12-Week 4
 author: wood
 categories: design
 ---
