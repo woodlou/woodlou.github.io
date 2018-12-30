@@ -18,20 +18,23 @@ categories: design
 
 作者认为 Player 和 Avatar 是两个相互作用的agent（agent 这个词在写论文时常常用到，却不知该如何翻译，大概可以理解为两种力量）。玩家在打造和控制avatar 的同时也被其影响。
 
-Player 和 Avatar 的四种关系：
+**Player 和 Avatar 的四种关系：**
 
 1. **Avatar-as-object**：avatar 就是一个虚拟物品，如ZEPETO 里大家动手捏出自己的脸，此时的脸只是一个虚拟物品而已，由player agency 主导；
+
 2. **Avatar-as-me**：此时avatar 对player 来说是自我的化身，有极强的自我认同感，在ZEPETO 里即大家通过各种服装配件将这个avatar 打造成“这就是我”的感觉；
+
 3. **Avatar-as-symbiote**：共生关系，简单的说来，就是avatar 此时不仅仅是player 的创造物，也会引导player 去探索avatar 的虚拟世界。比如ZEPETO 里需要用过金币购买物品，需要player 配合进行购买或者领取奖励，avatar 开始影响 player 的行为，他们产生「共生关系」；
+
 4. **Avatar-as-other**：此时avatar 变成超越现实的存在，player 将现实的期待投射为avatar 的行为，此时player 更像是一个帮助avatar 实现目标的辅助者，而avatar 才是主角。这里最适合的例子就是ZEPETO 里异地的人可以同框合影，不亲密的人可以摆出亲昵的姿势。
 
-以下是四中关系的特点提要
+以下是四种关系的特点提要
 <img src="/assets/2018-12-30-Weekly_Design_Reflection_player_avatar.jpg">
 
 ------
 ### 2.Science and Design Methodology: A Review
 
-之前因为 Design theory 的一节课，对design 和science 的关系产生了很大的兴趣，当然也是因为这个topic 对我产生了太大的冲击，所以阅读了一些相关的内容。这个话题很有意思，出了一系列XX, 驳XX， 驳驳XX 这样文章，可见本身也无定论。相对喜欢的还是 Nigel Cross 在1993 年写的一篇review：**Science and Design Methodology: A Review **。文中作者总结了历来大家讨论的 design 和science 的三种关系：
+之前因为 Design theory 的一节课，对design 和science 的关系产生了很大的兴趣，当然也是因为这个topic 对我产生了太大的冲击，所以阅读了一些相关的内容。这个话题很有意思，出了一系列XX, 驳XX， 驳驳XX 这样文章，可见本身也无定论。相对喜欢的还是 Nigel Cross 在1993 年写的一篇review：**Science and Design Methodology: A Review**。文中作者总结了历来大家讨论的 design 和science 的三种关系：
 
 **1. Scientific design**: 这指的是科技在设计中的新应用，使得科学更加被大众所知，比如iPhoneX 让人脸识别技术一夜爆发；
 
