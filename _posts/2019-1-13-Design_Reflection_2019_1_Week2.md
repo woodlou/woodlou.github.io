@@ -39,6 +39,7 @@ Rams believed that digitization is "diminishing our ability to experience things
 Also, a very lovely detail is that when Rams was taking a picture with some young designers from Braun at the permanent exhibit,  he suddenly looked around and said "I need to find my wife".  
  
  > “Keep your eyes wide open when you walk through the city, or through a room." 
+ 
  > "The term “design” is mushrooming. I fear we could lose our orientation at a point in time."
 
 ------
