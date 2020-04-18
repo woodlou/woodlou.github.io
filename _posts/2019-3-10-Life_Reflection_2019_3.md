@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Reflection-2019.3
+title: Aspirin-2019.3
 author: wood
 categories: life
 ---
@@ -85,7 +85,7 @@ Shantih Shantih Shantih.
 
 ------
 
-###《身份的焦虑》
+### 身份的焦虑
 
 ------
 
