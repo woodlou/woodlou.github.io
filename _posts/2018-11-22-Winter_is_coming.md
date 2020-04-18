@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 字传-2018.11.22
+title: 字传-2018.11
 author: wood
 categories: life
 ---
 
 
-你好哇，不在
+你好哇
 
 见信如晤。
 
